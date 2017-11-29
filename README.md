@@ -17,6 +17,8 @@ face_data.csv
 face_pic.py 
 -track your pupil using webcam
 
+**change the haar_cascades extension in files final.py and face_pic.py accordingly. 
+
 
 WORK YET TO BE DONE:
 incorprating the reults from ml
